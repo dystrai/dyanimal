@@ -1,0 +1,97 @@
+# Animais
+
+{doc}`🐜 <formiga>`
+{doc}`🦡 <texugo>`
+{doc}`🦇 <morcego>`
+{doc}`🦫 <castor>`
+{doc}`🪲 <besouro>`
+{doc}`🐦 <passaro>`
+{doc}`🦬 <bisao>`
+{doc}`🐡 <baiacu>`
+{doc}`🐃 <bufalo>`
+{doc}`🐛 <inseto>`
+{doc}`🦋 <borboleta>`
+{doc}`🐫 <camelo>`
+{doc}`🐈 <gato>`
+{doc}`🐤 <pintinho>`
+{doc}`🐿️ <esquilo>`
+{doc}`🪳 <barata>`
+{doc}`🪸 <coral>`
+{doc}`🐄 <vaca>`
+{doc}`🦀 <caranguejo>`
+{doc}`🦗 <grilo>`
+{doc}`🐊 <crocodilo>`
+{doc}`🦌 <veado>`
+{doc}`🦤 <dodo>`
+{doc}`🐕 <cachorro>`
+{doc}`🐬 <golfinho>`
+{doc}`🕊️ <pombo>`
+{doc}`🐪 <dromedario>`
+{doc}`🦆 <pato>`
+{doc}`🦅 <aguia>`
+{doc}`🐘 <elefante>`
+{doc}`🐟 <peixe>`
+{doc}`🦩 <flamingo>`
+{doc}`🪰 <mosca>`
+{doc}`🦒 <girafa>`
+{doc}`🐐 <cabra>`
+{doc}`🪿 <ganso>`
+{doc}`🦍 <gorila>`
+{doc}`🦔 <ourico>`
+{doc}`🦛 <hipopotamo>`
+{doc}`🐝 <abelha>`
+{doc}`🐎 <cavalo>`
+{doc}`🪼 <medusa>`
+{doc}`🦘 <canguru>`
+{doc}`🐞 <joaninha>`
+{doc}`🐆 <leopardo>`
+{doc}`🦎 <lagarto>`
+{doc}`🦙 <llama>`
+{doc}`🦞 <lagosta>`
+{doc}`🦣 <mamute>`
+{doc}`🐒 <macaco>`
+{doc}`🦟 <mosquito>`
+{doc}`🐁 <camundongo>`
+{doc}`🐙 <polvo>`
+{doc}`🦧 <orangotango>`
+{doc}`🦦 <lontra>`
+{doc}`🦉 <coruja>`
+{doc}`🐂 <boi>`
+{doc}`🦜 <papagaio>`
+{doc}`🦚 <pavao>`
+{doc}`🐧 <pinguim>`
+{doc}`🐖 <porco>`
+{doc}`🐩 <poodle>`
+{doc}`🐇 <coelho>`
+{doc}`🐏 <carneiro>`
+{doc}`🐀 <rato>`
+{doc}`🦏 <rinoceronte>`
+{doc}`🐓 <galo>`
+{doc}`🦕 <sauropode>`
+{doc}`🦂 <escorpiao>`
+{doc}`🦭 <foca>`
+{doc}`🐑 <ovelha>`
+{doc}`🦐 <camarao>`
+{doc}`🦨 <gamba>`
+{doc}`🦥 <preguica>`
+{doc}`🐌 <caracol>`
+{doc}`🐍 <serpente>`
+{doc}`🕷️ <aranha>`
+{doc}`🦑 <lula>`
+{doc}`🦢 <cisne>`
+{doc}`🦖 <t-rex>`
+{doc}`🐅 <tigre>`
+{doc}`🦃 <peru>`
+{doc}`🐢 <tartaruga>`
+{doc}`🪱 <verme>`
+{doc}`🐋 <baleia>`
+
+```{toctree}
+---
+maxdepth: 1
+caption: Sumário
+glob: true
+---
+
+*
+```

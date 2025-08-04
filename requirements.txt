@@ -1,0 +1,8 @@
+emoji
+furo
+linkify-it-py
+myst-parser
+sphinx
+sphinx-tabs
+sphinxcontrib-youtube
+
