@@ -26,6 +26,7 @@ release = '2025'
 extensions = [    
     'myst_parser',
     'sphinx_tabs.tabs',
+    'sphinxcontrib.mermaid',
     'sphinxcontrib.youtube'
 ]
 
@@ -38,8 +39,11 @@ language = 'pt_BR'
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
 html_theme = 'furo'
+html_theme = 'sphinx_book_theme'
 html_static_path = ['_static']
 html_title = html_short_title = project
+
+numfig = True
 
 myst_enable_extensions = {
 #    "amsmath",
@@ -57,6 +61,7 @@ myst_enable_extensions = {
     "substitution",
     "tasklist",    
 }
+myst_fence_as_directive = ["mermaid"]
 
 myst_url_schemes = {
     "asciinema": "https://asciinema.org/a/{{path}}?{{query}}",
@@ -66,6 +71,7 @@ myst_url_schemes = {
     "wikies": "https://es.wikipedia.org/wiki/{{path}}#{{fragment}}",
     "wikipt": "https://pt.wikipedia.org/wiki/{{path}}#{{fragment}}",
     "doi": "https://doi.org/{{path}}",
+    "dicio": "https://dicio.com.br/{{path}}/",
     # "gh-issue": {
     #     "url": "https://github.com/executablebooks/MyST-Parser/issue/{{path}}#{{fragment}}",
     #     "title": "Issue #{{path}}",
